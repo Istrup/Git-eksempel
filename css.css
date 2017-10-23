@@ -1,0 +1,14 @@
+p {
+    font-size: 50;
+    font-family: fantasy;
+    font-weight: bolder;
+    color: darkred;
+    border-radius: 5px;
+    border-style: dotted;
+    margin: 2em;
+    padding: 2em;
+}
+
+body {
+    background-color: aquamarine
+}
